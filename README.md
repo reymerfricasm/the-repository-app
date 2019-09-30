@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### 'All the CSS has been worked with bootstrap'
+The documentation here: https://getbootstrap.com
+
+### 'All de fonts and icons has been used from Font-Awesome'
+The documentation here: https://fontawesome.com
+

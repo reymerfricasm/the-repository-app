@@ -12,7 +12,7 @@ repositoryDescription="this a web app for seacrh in a github repositories databa
 repositoryLink="https://github.com/reymerfricasm/prj-cursobasico-3"
 startsNumber="10"
 openIssues="1,299"
-contributorsPage="https://github.com/reymerfricasm/prj-cursobasico-3"
+contributorsPage="https://github.com/reymerfricasm/prj-cursobasico-3/graphs/contributors"
 />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change

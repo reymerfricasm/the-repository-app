@@ -15,11 +15,11 @@ class RepositoryCard extends React.Component {
                     <div className="card-body">
                         <blockquote className="blockquote mb-0">
                             <p className="card-text">
-                                <span className="font-weight-bold">Programming Language: </span> 
+                                <span className="font-weight-bold">Programming Languages: </span> 
                                 <span className="badge badge-primary font-weight-light">{this.props.programmingLanguage}</span>
                             </p>
                             <p className="card-text">
-                                <span className="font-weight-bold">Repository description:</span> <br/>
+                                <span className="font-weight-bold">Repository Description:</span> <br/>
                                 <i className="font-weight-light">{this.props.repositoryDescription}</i>
                             </p>
                             <p className="card-text">
@@ -33,15 +33,14 @@ class RepositoryCard extends React.Component {
                             <p className="card-text">
                                 <span>
                                     <a className="stretched-link" href={this.props.repositoryLink}>
-                                        <i className="font-weight-light">Go to repository</i>
+                                        <i className="font-weight-light">Go to repository </i>
                                     </a>
-                                </span>
-                                <span>
+                                    | 
                                     <a className="stretched-link" href={this.props.contributorsPage}>
-                                        <i className="font-weight-light">Top contributors</i>
+                                        <i className="font-weight-light"> Top contributors</i>
                                     </a>
                                 </span>
-                                
+                               
                             </p>
                         </blockquote>
                     </div>

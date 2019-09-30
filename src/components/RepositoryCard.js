@@ -38,7 +38,7 @@ class RepositoryCard extends React.Component {
                                 </span>
                                 <span>
                                     <a className="stretched-link" href={this.props.contributorsPage}>
-                                        <i className="font-weight-light">View contributors</i>
+                                        <i className="font-weight-light">Top contributors</i>
                                     </a>
                                 </span>
                                 
